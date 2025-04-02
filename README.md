@@ -18,10 +18,10 @@
 [LinkedIn](https://linkedin.com/in/vedantchopade) | [Portfolio](https://vedantchopade.com) | [Email](mailto:yourmail@example.com)
 
 ### 📊 GitHub Stats:
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantChopade&show_icons=true&theme=dark)
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?vedant-chopade=VedantChopade&show_icons=true&theme=dark)
 
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VedantChopade&theme=dark)
 
 ### 🚀 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantChopade&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?vedant-chopade=VedantChopade&layout=compact&theme=dark)
