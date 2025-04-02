@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Vedant Chopade
 
-<!--
-**vedant-chopade/vedant-chopade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** | **Java | Spring Boot | React | AWS | Docker | Microservices**
 
-Here are some ideas to get you started:
+🔹 **About Me:**
+- 🔥 Passionate about scalable backend systems and clean code.
+- 🚀 Experienced in **Java, Spring Boot, React, MySQL, and AWS**.
+- ⚡ Currently learning **GitHub Actions, Docker, and Microservices**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Featured Projects:**
+1. **[E-commerce App](https://github.com/VedantChopade/ecommerce-app)** – Spring Boot + React + Razorpay.
+2. **[Food Ordering System](https://github.com/VedantChopade/food-ordering-app)** – Full-stack project with AWS hosting.
+
+📊 **GitHub Stats**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VedantChopade&theme=dark)
+
+📫 **Let's Connect!**
+[LinkedIn](https://linkedin.com/in/vedantchopade) | [Portfolio](https://vedantchopade.com) | [Email](mailto:yourmail@example.com)
